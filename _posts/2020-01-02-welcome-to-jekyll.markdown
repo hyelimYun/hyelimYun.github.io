@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2020-01-02 19:31:29 +0900
-categories: jekyll update heyhey hyemama what 웹프론트 웹백엔드 운영체제 백준문제풀기 등등 해봅시다
+categories: Sample
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
