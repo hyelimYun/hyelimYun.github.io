@@ -1,13 +1,14 @@
 ---
 layout: post
-title: post-sample
+title: 웹이란?
 date: 2020-01-02 19:20:23 +0900
 category: sample s 아아 a b c d e f g h i j k l m n o p q r s
 ---
-# post-sample
+# 웹이란?
 > Hello!
 
 This is code
+이것은 코드입니다.
 ```ruby
 print 'hello world'
 ```
